@@ -1,0 +1,13 @@
+# temp folder and files
+temp/
+temp.* 
+terminal.txt
+
+# Batch script
+quick-git.bat
+
+# vscode
+.vscode/
+
+# Node
+node_modules/
